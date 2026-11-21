@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,City,Region,Customer_Segment,Signup_Date
+C001,Neha Iyer,Chennai,South,Consumer,2024-09-07
+C002,Lakshmi Jain,Mumbai,West,Consumer,2025-07-12
+C003,Arun Sharma,Kolkata,East,Consumer,2024-08-11
+C004,Vijay Jain,Coimbatore,South,Small Business,2025-10-27
+C005,  naveen gupta  ,Bhubaneswar,East,Consumer,2024-10-11
+C006,Rohit Iyer,Surat,West,Consumer,2024-06-08
+C007,Rahul Singh,Delhi,North,Corporate,2024-04-09
+C008,Sanjay Verma,Noida,North,Small Business,2024-02-14
+C009,Meena Mehta,Ranchi,East,Consumer,2025-01-22
+C010,Ramesh Pillai,Noida,North,Small Business,2025-01-05
+C011,Priya Menon,Mumbai,West,Corporate,2024-08-21
+C012,Kavya Sharma,Bengaluru,South,Corporate,2025-01-24
+C013,Divya Patel,Patna,East,Consumer,2024-12-29
+C014,Swetha Menon,Delhi,North,Small Business,2024-06-24
+C015,Naveen Singh,Pune,West,Small Business,2024-10-03
+C016,Arjun Verma,Ahmedabad,West,Consumer,2024-02-27
+C017,Aditya Iyer,Hyderabad,South,Consumer,2024-03-08
+C018,Harish Das,Jaipur,North,Small Business,2025-02-09
+C019,  sanjay reddy  ,Bhubaneswar,East,Small Business,2024-09-09
+C020,Pooja Mehta,Noida,North,Corporate,2025-08-20
+C021,Karthik Rao,Jaipur,North,Consumer,2025-05-20
+C022,Karthik Menon,Chennai,South,Small Business,2024-06-12
+C023,Rahul Singh,Ranchi,East,Small Business,2025-01-25
+C024,Sanjay Rao,Ranchi,East,Small Business,2024-01-12
+C025,Praveen Iyer,,South,Corporate,2025-10-18
+C026,Pooja Reddy,Hyderabad,South,Consumer,2025-04-09
+C027,Praveen Reddy,Noida,North,Consumer,2025-06-03
+C028,Swetha Nair,Noida,North,Corporate,2024-06-05
+C029,Praveen Mehta,Nashik,West,Consumer,2025-06-27
+C030,Arun Sharma,Lucknow,North,Corporate,2025-01-06
+C031,Nisha Mehta,Mumbai,West,Consumer,2025-08-03
+C032,Arjun Sharma,Kochi,South,Consumer,2025-06-29
+C033,Keerthi Reddy,Surat,West,Small Business,2024-09-28
+C034,Ishita Rao,Bhubaneswar,east,Small Business,2024-07-24
+C035,Lakshmi Menon,Lucknow,North,Corporate,2025-01-17
+C036,Nisha Nair,Kolkata,East,Corporate,2024-03-06
+C037,Keerthi Nair,Coimbatore,South,Consumer,2025-08-25
+C038,Akash Menon,Chennai,South,Consumer,2024-03-01
+C039,Kavya Patel,Chennai,South,Small Business,2024-03-13
+C040,Lakshmi Das,Ahmedabad,West,Small Business,2024-08-07
+C041,Manoj Das,Nashik,West,Corporate,2024-09-05
+C042,Meena Sharma,Bhubaneswar,East,Corporate,2025-11-05
+C043,Pooja Das,Lucknow,North,Small Business,2024-02-25
+C044,Aditya Jain,Chennai,South,Consumer,2024-12-13
+C045,Vijay Rao,Pune,West,Consumer,2025-04-04
+C046,Sanjay Das,Bhubaneswar,East,Consumer,2024-09-12
+C047,Meena Kumar,Ranchi,East,Small Business,2025-10-29
+C048,Ishita Verma,Chennai,South,Consumer,2024-08-30
+C049,Ananya Nair,Guwahati,East,Consumer,2025-02-14
+C050,Arun Singh,Surat,West,Corporate,2024-09-28
+C051,Akash Jain,Lucknow,North,Small Business,2025-07-23
+C052,Vijay Iyer,Bhubaneswar,East,Consumer,2024-08-10
+C053,Priya Kumar,Hyderabad,South,Corporate,2025-08-21
+C054,Vikram Sharma,Mumbai,West,Consumer,2024-07-09
+C055,Aditya Sharma,Bengaluru,South,Consumer,2025-08-06
+C056,Rahul Singh,Coimbatore,South,Small Business,2025-11-04
+C057,Vijay Menon,Chandigarh,North,Consumer,2024-11-17
+C058,  karthik menon  ,Lucknow,North,Corporate,2025-10-22
+C059,Ishita Verma,Patna,East,Consumer,2024-03-15
+C060,Manoj Sharma,Ranchi,East,Small Business,2024-03-16
+C061,Sanjay Reddy,Nashik,West,Consumer,2024-12-23
+C062,Aishwarya Reddy,Ahmedabad,West,Small Business,2025-03-24
+C063,Deepa Menon,Noida,North,Consumer,2025-06-25
+C064,Ramesh Reddy,Delhi,North,Consumer,2024-09-27
+C065,Karthik Iyer,Coimbatore,South,Small Business,2024-10-15
+C066,Vijay Menon,Ahmedabad,WEST,Corporate,2025-10-11
+C067,Ramesh Mehta,Patna,East,Consumer,2024-02-22
+C068,Priya Kumar,Patna,East,Consumer,2024-12-07
+C069,Neha Das,Jaipur,North,Small Business,2025-07-18
+C070,Arun Sharma,Ranchi,East,Small Business,2024-03-18
+C071,Priya Pillai,Nashik,West,Small Business,2025-01-13
+C072,Karthik Kumar,Surat,West,Corporate,2024-11-11
+C073,Vijay Menon,,South,Small Business,2024-09-12
+C074,Praveen Rao,Hyderabad,South,Small Business,2025-02-20
+C075,Kavya Reddy,Pune,West,Corporate,2024-06-30
+C076,Neha Mehta,Bengaluru,South,Corporate,2024-12-06
+C077,Divya Verma,Ahmedabad,West,Corporate,2024-04-20
+C078,Nisha Nair,Kochi,South,Corporate,2025-04-16
+C079,Nisha Kumar,Jaipur,North,Consumer,2025-11-06
+C080,Sanjay Pillai,Patna,East,Corporate,2024-03-12
+C081,Aditya Menon,Noida,North,Corporate,2025-07-03
+C082,Ramesh Iyer,Chennai,South,Small Business,2024-07-01
+C083,Meena Gupta,Delhi,North,Corporate,2025-03-20
+C084,Swetha Rao,Lucknow,North,Corporate,2024-04-28
+C085,Priya Jain,Ahmedabad,West,Consumer,2025-03-22
+C086,Pooja Sharma,Ahmedabad,West,Corporate,2025-11-11
+C087,Neha Mehta,Delhi,North,Small Business,2024-11-03
+C088,Rohit Singh,Lucknow,North,Small Business,2024-10-29
+C089,Pooja Menon,Pune,West,Small Business,2025-01-23
+C090,Manoj Iyer,Nashik,West,Small Business,2025-02-19
+C091,Aishwarya Nair,Hyderabad,South,Small Business,2025-03-16
+C092,Naveen Das,Lucknow,North,Consumer,2025-11-22
+C093,Lakshmi Sharma,Bhubaneswar,East,Small Business,2024-10-17
+C094,Arjun Verma,Delhi,North,Small Business,2024-08-28
+C095,Deepa Nair,Jaipur,North,Consumer,2024-05-30
+C096,Ananya Gupta,Bengaluru,South,Corporate,2024-03-15
+C097,Vijay Jain,Ranchi,East,Corporate,2025-01-28
+C098,Karthik Menon,Bhubaneswar,East,Consumer,2024-01-06
+C099,Divya Verma,Bhubaneswar,East,Corporate,2025-06-14
+C100,Nisha Mehta,Coimbatore,South,Corporate,2024-05-04
