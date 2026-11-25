@@ -1,0 +1,501 @@
+restaurant_id,name,city,cuisine,tier,opened_date
+R0001,Silver Corner,Pune,Biryani,plus,2023-04-15
+R0002,Golden Point,Chennai,Pizza,plus,2024-07-29
+R0003,Hilltop Garden,Mumbai,Chinese,basic,2023-12-14
+R0004,Little House,Bengaluru,Biryani,basic,2019-05-03
+R0005,Golden Corner,Chennai,Cafe,basic,2023-05-07
+R0006,Lotus Corner,Chennai,North Indian,premium,2020-07-12
+R0007,Green Cafe,Delhi,North Indian,plus,2021-12-16
+R0008,Lotus Tiffins,Bengaluru,Chinese,basic,2023-04-17
+R0009,Golden Garden,Bengaluru,North Indian,premium,2022-06-28
+R0010,Coastal Bowl,Bengaluru,Chinese,premium,2021-07-15
+R0011,Spice Bistro,Mumbai,South Indian,plus,2025-08-27
+R0012,Coastal Table,Chennai,Pizza,basic,2022-04-03
+R0013,Grand Point,Hyderabad,Biryani,plus,2023-11-10
+R0014,Peacock Table,Chennai,Pizza,plus,2025-10-07
+R0015,Green Table,Hyderabad,Cafe,plus,2023-05-26
+R0016,Grand Treats,Bengaluru,Biryani,premium,2019-05-22
+R0017,Green Bowl,Pune,North Indian,basic,2022-06-22
+R0018,Lotus Treats,Bengaluru,Biryani,plus,2021-11-25
+R0019,Golden House,Bengaluru,North Indian,plus,2025-08-22
+R0020,Peacock Tiffins,Delhi,Chinese,plus,2021-07-01
+R0021,Little Corner,Chennai,Cafe,basic,2023-12-06
+R0022,Banyan House,Hyderabad,Cafe,plus,2024-01-26
+R0023,Coastal Express,Pune,Biryani,basic,2025-03-10
+R0024,Saffron Kitchen,Mumbai,Chinese,basic,2024-09-06
+R0025,Peacock Bowl,Delhi,Biryani,plus,2022-03-11
+R0026,Lotus Kitchen,Mumbai,Biryani,basic,2022-04-24
+R0027,Green Cafe,Hyderabad,Cafe,basic,2020-08-13
+R0028,Little Cafe,Pune,Cafe,plus,2021-01-18
+R0029,Urban House,Bengaluru,Cafe,plus,2025-10-21
+R0030,Urban Kitchen,Hyderabad,North Indian,plus,2020-04-07
+R0031,Coastal Cafe,Hyderabad,Biryani,basic,2020-01-31
+R0032,Lotus Bistro,Bengaluru,Biryani,basic,2020-03-19
+R0033,Green Garden,Hyderabad,Chinese,plus,2024-06-19
+R0034,Grand Bistro,Mumbai,Biryani,premium,2025-04-05
+R0035,Saffron Corner,Hyderabad,North Indian,premium,2020-11-18
+R0036,Banyan Bistro,Mumbai,Cafe,premium,2019-04-27
+R0037,Banyan Express,Hyderabad,Pizza,basic,2022-12-03
+R0038,Golden Kitchen,Hyderabad,Biryani,basic,2021-10-11
+R0039,Little Kitchen,Delhi,Cafe,plus,2022-04-05
+R0040,Lotus Point,Bengaluru,North Indian,plus,2021-06-05
+R0041,Peacock Express,Chennai,Biryani,premium,2020-12-20
+R0042,Saffron House,Mumbai,Pizza,basic,2025-08-27
+R0043,Lotus Tiffins,Pune,Chinese,premium,2022-11-09
+R0044,Little Tiffins,Delhi,Pizza,plus,2025-10-15
+R0045,Spice Cafe,Mumbai,Pizza,basic,2019-07-28
+R0046,Royal Garden,Bengaluru,Chinese,basic,2022-06-03
+R0047,Lotus Tiffins,Bengaluru,Cafe,plus,2023-07-30
+R0048,Lotus Tiffins,Bengaluru,Biryani,plus,2021-09-05
+R0049,Urban House,Bengaluru,Chinese,plus,2023-02-28
+R0050,Banyan Kitchen,Delhi,Pizza,plus,2019-06-06
+R0051,Golden Cafe,Delhi,Chinese,premium,2024-07-13
+R0052,Green Express,Chennai,South Indian,basic,2023-08-24
+R0053,Little Bistro,Bengaluru,Chinese,plus,2020-03-09
+R0054,Banyan Express,Hyderabad,Biryani,basic,2022-05-12
+R0055,Little Bowl,Delhi,North Indian,plus,2024-09-20
+R0056,Hilltop Treats,Mumbai,Cafe,basic,2019-03-26
+R0057,Spice House,Mumbai,North Indian,basic,2025-03-07
+R0058,Banyan Bowl,Bengaluru,Biryani,plus,2019-05-13
+R0059,Grand Table,Mumbai,Chinese,basic,2022-03-08
+R0060,Coastal Garden,Delhi,Cafe,basic,2020-05-20
+R0061,Banyan Treats,Chennai,Cafe,basic,2021-11-17
+R0062,Lotus Bistro,Bengaluru,Biryani,basic,2020-05-09
+R0063,Urban Corner,Chennai,Pizza,plus,2022-03-17
+R0064,Coastal Point,Mumbai,Cafe,plus,2025-10-08
+R0065,Lotus Garden,Mumbai,Pizza,basic,2021-09-04
+R0066,Green House,Hyderabad,Biryani,basic,2024-04-15
+R0067,Golden House,Delhi,Pizza,basic,2019-02-05
+R0068,Coastal Bowl,Mumbai,Biryani,premium,2023-05-20
+R0069,Spice Bowl,Chennai,Chinese,premium,2020-09-04
+R0070,Royal Express,Hyderabad,Cafe,premium,2020-03-08
+R0071,Golden Cafe,Hyderabad,Cafe,plus,2022-05-07
+R0072,Banyan Corner,Mumbai,Cafe,plus,2019-09-18
+R0073,Urban Kitchen,Chennai,North Indian,basic,2021-03-03
+R0074,Peacock Kitchen,Bengaluru,Pizza,basic,2024-03-16
+R0075,Green Bowl,Chennai,South Indian,premium,2020-04-02
+R0076,Silver Treats,Hyderabad,Pizza,basic,2025-09-15
+R0077,Royal Treats,Mumbai,South Indian,basic,2019-11-14
+R0078,Urban Kitchen,Bengaluru,Cafe,plus,2025-04-28
+R0079,Hilltop Express,Bengaluru,South Indian,basic,2025-03-14
+R0080,Silver Point,Delhi,South Indian,basic,2023-03-01
+R0081,Urban Cafe,Mumbai,Chinese,basic,2021-10-30
+R0082,Hilltop Cafe,Hyderabad,Pizza,plus,2021-10-20
+R0083,Lotus Corner,Bengaluru,Pizza,plus,2025-05-07
+R0084,Golden Express,Bengaluru,Pizza,premium,2023-06-13
+R0085,Little Kitchen,Chennai,South Indian,plus,2019-06-25
+R0086,Silver Express,Mumbai,Cafe,basic,2025-08-26
+R0087,Urban House,Chennai,Chinese,plus,2019-04-17
+R0088,Banyan Express,Bengaluru,Chinese,basic,2019-01-31
+R0089,Little Bistro,Pune,Biryani,plus,2021-09-03
+R0090,Peacock Express,Pune,North Indian,basic,2020-05-20
+R0091,Royal Bowl,Delhi,Biryani,basic,2022-03-16
+R0092,Little Garden,Bengaluru,Pizza,basic,2022-01-11
+R0093,Grand Bistro,Mumbai,Chinese,basic,2023-08-11
+R0094,Golden Bistro,Chennai,Pizza,plus,2024-03-01
+R0095,Grand Point,Chennai,Pizza,plus,2025-06-05
+R0096,Little Kitchen,Mumbai,Chinese,basic,2020-07-08
+R0097,Lotus Bowl,Mumbai,Biryani,basic,2020-11-11
+R0098,Coastal Express,Delhi,North Indian,basic,2021-05-29
+R0099,Little Point,Delhi,Chinese,basic,2019-08-07
+R0100,Little Tiffins,Bengaluru,North Indian,plus,2019-02-21
+R0101,Little Table,Chennai,North Indian,basic,2021-08-30
+R0102,Royal House,Chennai,South Indian,plus,2024-12-18
+R0103,Banyan Cafe,Delhi,Chinese,plus,2021-07-12
+R0104,Peacock Garden,Chennai,Biryani,plus,2024-05-01
+R0105,Green Corner,Mumbai,Cafe,basic,2022-01-31
+R0106,Banyan Garden,Bengaluru,Biryani,premium,2025-03-27
+R0107,Peacock House,Pune,Cafe,basic,2022-01-06
+R0108,Peacock Corner,Bengaluru,Chinese,premium,2020-12-28
+R0109,Coastal Kitchen,Bengaluru,Pizza,basic,2020-08-02
+R0110,Urban Tiffins,Delhi,Biryani,plus,2020-06-10
+R0111,Silver Garden,Pune,Chinese,plus,2020-08-15
+R0112,Golden Tiffins,Bengaluru,Biryani,plus,2021-12-25
+R0113,Saffron Corner,Bengaluru,Pizza,basic,2023-03-26
+R0114,Lotus Bowl,Chennai,Cafe,basic,2022-11-16
+R0115,Grand Corner,Delhi,North Indian,basic,2021-04-26
+R0116,Peacock Corner,Delhi,South Indian,plus,2020-01-02
+R0117,Little Point,Pune,Chinese,premium,2025-08-08
+R0118,Little Cafe,Chennai,Pizza,basic,2019-02-20
+R0119,Coastal Point,Mumbai,South Indian,plus,2025-10-25
+R0120,Urban Bowl,Bengaluru,Pizza,basic,2023-02-21
+R0121,Saffron Garden,Delhi,Pizza,plus,2019-07-05
+R0122,Coastal Tiffins,Bengaluru,Chinese,basic,2025-09-20
+R0123,Green Garden,Bengaluru,South Indian,plus,2019-05-22
+R0124,Silver Cafe,Chennai,Cafe,plus,2020-08-20
+R0125,Little Kitchen,Chennai,South Indian,plus,2023-10-12
+R0126,Hilltop Corner,Chennai,Pizza,basic,2021-04-24
+R0127,Little Tiffins,Mumbai,North Indian,plus,2021-10-20
+R0128,Urban Point,Mumbai,South Indian,plus,2023-11-25
+R0129,Urban Table,Chennai,Pizza,plus,2019-06-06
+R0130,Green Kitchen,Bengaluru,Biryani,basic,2022-11-02
+R0131,Little Kitchen,Bengaluru,Chinese,plus,2023-02-01
+R0132,Saffron Express,Chennai,Biryani,basic,2019-08-28
+R0133,Coastal Bistro,Bengaluru,Pizza,plus,2019-08-27
+R0134,Spice Kitchen,Bengaluru,Chinese,basic,2023-04-18
+R0135,Banyan Table,Delhi,South Indian,premium,2022-06-22
+R0136,Banyan Bistro,Bengaluru,North Indian,premium,2021-04-19
+R0137,Grand Garden,Pune,Pizza,plus,2023-10-31
+R0138,Banyan Cafe,Pune,Pizza,basic,2020-04-08
+R0139,Peacock Corner,Pune,North Indian,basic,2019-11-11
+R0140,Golden House,Chennai,Cafe,basic,2024-03-15
+R0141,Silver Bowl,Mumbai,Pizza,basic,2025-05-10
+R0142,Banyan Point,Chennai,Cafe,premium,2025-01-20
+R0143,Coastal Treats,Mumbai,Chinese,basic,2025-02-05
+R0144,Saffron Point,Chennai,South Indian,basic,2025-03-27
+R0145,Banyan Table,Hyderabad,Biryani,plus,2024-12-09
+R0146,Peacock Table,Hyderabad,Pizza,basic,2022-06-06
+R0147,Coastal Garden,Pune,Chinese,basic,2022-07-04
+R0148,Urban House,Mumbai,Cafe,plus,2024-12-19
+R0149,Lotus Point,Bengaluru,North Indian,basic,2023-09-14
+R0150,Golden Point,Delhi,North Indian,premium,2025-01-10
+R0151,Peacock Treats,Chennai,Cafe,basic,2021-06-29
+R0152,Banyan Tiffins,Chennai,Chinese,plus,2022-07-03
+R0153,Little Kitchen,Chennai,North Indian,premium,2020-06-07
+R0154,Urban Kitchen,Chennai,North Indian,plus,2024-06-26
+R0155,Saffron Bowl,Hyderabad,South Indian,basic,2022-08-05
+R0156,Little Tiffins,Chennai,South Indian,basic,2021-05-31
+R0157,Silver Bowl,Hyderabad,North Indian,premium,2019-05-15
+R0158,Saffron Corner,Hyderabad,Cafe,plus,2024-06-06
+R0159,Grand Table,Chennai,North Indian,basic,2023-04-09
+R0160,Lotus Bistro,Pune,Chinese,basic,2023-01-31
+R0161,Spice Bowl,Bengaluru,Pizza,premium,2023-04-26
+R0162,Little Point,Chennai,South Indian,basic,2020-11-29
+R0163,Little Treats,Bengaluru,South Indian,plus,2021-02-06
+R0164,Urban Tiffins,Chennai,Cafe,plus,2022-09-09
+R0165,Hilltop Point,Bengaluru,Biryani,plus,2022-06-29
+R0166,Spice Table,Delhi,Biryani,plus,2023-05-05
+R0167,Silver Tiffins,Chennai,Cafe,plus,2024-05-24
+R0168,Peacock Cafe,Hyderabad,Cafe,premium,2025-07-10
+R0169,Silver Cafe,Bengaluru,Biryani,basic,2025-03-09
+R0170,Spice Kitchen,Mumbai,South Indian,basic,2025-04-23
+R0171,Saffron Treats,Chennai,Biryani,plus,2025-01-15
+R0172,Banyan Cafe,Chennai,North Indian,basic,2024-07-23
+R0173,Green Point,Hyderabad,North Indian,premium,2020-01-02
+R0174,Banyan Tiffins,Chennai,South Indian,plus,2021-01-17
+R0175,Golden Garden,Delhi,Cafe,plus,2020-03-03
+R0176,Silver Bistro,Chennai,North Indian,basic,2020-10-10
+R0177,Hilltop Table,Delhi,Pizza,premium,2023-02-22
+R0178,Green Treats,Bengaluru,Biryani,basic,2019-02-20
+R0179,Grand Express,Mumbai,North Indian,plus,2024-05-08
+R0180,Coastal Bowl,Mumbai,Cafe,basic,2019-12-28
+R0181,Green Point,Mumbai,South Indian,plus,2025-03-02
+R0182,Spice House,Bengaluru,Cafe,basic,2022-01-15
+R0183,Saffron Treats,Mumbai,Pizza,premium,2019-06-26
+R0184,Coastal Tiffins,Mumbai,Pizza,plus,2025-10-17
+R0185,Peacock Garden,Pune,North Indian,basic,2025-07-13
+R0186,Grand Cafe,Pune,Cafe,basic,2025-04-25
+R0187,Coastal Point,Hyderabad,Pizza,premium,2025-02-14
+R0188,Banyan Kitchen,Bengaluru,Chinese,basic,2025-01-26
+R0189,Saffron House,Bengaluru,Pizza,basic,2025-01-17
+R0190,Saffron Cafe,Mumbai,Pizza,basic,2024-07-02
+R0191,Royal House,Hyderabad,Biryani,plus,2019-05-26
+R0192,Little Corner,Bengaluru,Chinese,plus,2024-06-27
+R0193,Green Bistro,Bengaluru,Cafe,basic,2021-08-10
+R0194,Little Table,Chennai,North Indian,premium,2019-08-22
+R0195,Silver Cafe,Bengaluru,Chinese,plus,2021-04-12
+R0196,Little Point,Delhi,Pizza,basic,2024-12-09
+R0197,Green Bistro,Bengaluru,Chinese,plus,2023-06-08
+R0198,Saffron Bistro,Bengaluru,North Indian,basic,2021-07-04
+R0199,Royal Treats,Delhi,South Indian,basic,2024-05-31
+R0200,Silver Treats,Delhi,Biryani,basic,2025-10-15
+R0201,Grand Treats,Chennai,Pizza,basic,2023-01-21
+R0202,Banyan Point,Mumbai,North Indian,plus,2021-10-22
+R0203,Silver Bistro,Chennai,Chinese,premium,2025-03-15
+R0204,Coastal Kitchen,Bengaluru,Cafe,plus,2022-07-07
+R0205,Coastal Corner,Delhi,Chinese,premium,2021-05-02
+R0206,Royal Garden,Hyderabad,Cafe,basic,2023-10-19
+R0207,Coastal Corner,Mumbai,North Indian,basic,2021-12-16
+R0208,Golden Bistro,Bengaluru,Pizza,plus,2025-02-10
+R0209,Royal Treats,Mumbai,Biryani,premium,2020-07-28
+R0210,Spice Bowl,Hyderabad,Chinese,basic,2025-04-29
+R0211,Saffron Bowl,Bengaluru,South Indian,plus,2023-04-12
+R0212,Urban Bowl,Mumbai,Pizza,basic,2025-05-05
+R0213,Lotus Cafe,Chennai,Pizza,premium,2021-10-22
+R0214,Urban House,Bengaluru,North Indian,plus,2022-06-24
+R0215,Coastal Bistro,Bengaluru,Chinese,plus,2025-04-28
+R0216,Silver Bistro,Chennai,Chinese,plus,2023-02-20
+R0217,Saffron House,Chennai,Pizza,basic,2022-01-08
+R0218,Saffron Tiffins,Mumbai,Chinese,plus,2019-03-13
+R0219,Royal Point,Chennai,Biryani,basic,2024-09-13
+R0220,Silver Treats,Delhi,Cafe,premium,2023-10-20
+R0221,Banyan Table,Bengaluru,Pizza,plus,2023-12-08
+R0222,Coastal Tiffins,Bengaluru,Biryani,basic,2022-09-17
+R0223,Saffron Express,Bengaluru,North Indian,plus,2020-12-24
+R0224,Lotus Bowl,Hyderabad,Biryani,basic,2025-02-06
+R0225,Golden Cafe,Chennai,Biryani,basic,2020-08-13
+R0226,Hilltop Treats,Bengaluru,South Indian,plus,2021-10-30
+R0227,Lotus Point,Bengaluru,Cafe,plus,2025-05-16
+R0228,Hilltop Point,Chennai,South Indian,basic,2021-03-18
+R0229,Silver Bistro,Hyderabad,Cafe,basic,2021-12-14
+R0230,Hilltop Cafe,Hyderabad,Pizza,plus,2022-10-30
+R0231,Peacock Table,Mumbai,Cafe,plus,2019-04-24
+R0232,Urban Point,Bengaluru,South Indian,premium,2023-11-03
+R0233,Little Express,Bengaluru,North Indian,plus,2019-07-31
+R0234,Urban Tiffins,Bengaluru,Chinese,premium,2022-01-25
+R0235,Urban Table,Hyderabad,North Indian,basic,2024-03-06
+R0236,Lotus Kitchen,Hyderabad,South Indian,basic,2021-01-20
+R0237,Green Bistro,Bengaluru,Biryani,plus,2024-02-01
+R0238,Little Bowl,Chennai,Biryani,plus,2023-05-26
+R0239,Grand Bistro,Bengaluru,Biryani,basic,2021-03-16
+R0240,Saffron Tiffins,Chennai,Pizza,plus,2022-12-22
+R0241,Saffron Tiffins,Bengaluru,North Indian,basic,2024-10-14
+R0242,Spice Express,Pune,South Indian,basic,2022-06-29
+R0243,Little House,Delhi,Chinese,plus,2024-07-12
+R0244,Little Bowl,Hyderabad,Cafe,basic,2021-09-21
+R0245,Green Point,Chennai,Chinese,basic,2019-11-24
+R0246,Peacock House,Bengaluru,North Indian,basic,2025-05-11
+R0247,Peacock Point,Delhi,Cafe,basic,2022-01-17
+R0248,Lotus Point,Chennai,Chinese,basic,2020-12-11
+R0249,Silver Corner,Chennai,Pizza,premium,2023-11-18
+R0250,Banyan Cafe,Chennai,Chinese,premium,2023-05-29
+R0251,Peacock Table,Pune,Biryani,plus,2022-05-26
+R0252,Golden Point,Bengaluru,Chinese,basic,2022-06-20
+R0253,Coastal Bowl,Hyderabad,Chinese,plus,2019-12-07
+R0254,Royal Point,Bengaluru,Chinese,basic,2024-01-12
+R0255,Hilltop Table,Bengaluru,South Indian,basic,2024-12-27
+R0256,Spice Corner,Chennai,Pizza,plus,2025-06-18
+R0257,Hilltop House,Mumbai,Biryani,basic,2022-05-31
+R0258,Little Bowl,Pune,Pizza,basic,2021-02-19
+R0259,Green Tiffins,Pune,North Indian,plus,2023-10-09
+R0260,Saffron Point,Chennai,Cafe,plus,2025-06-29
+R0261,Grand Table,Pune,South Indian,plus,2023-05-23
+R0262,Spice Express,Bengaluru,North Indian,premium,2023-07-24
+R0263,Royal Express,Chennai,Biryani,premium,2020-02-08
+R0264,Saffron Garden,Bengaluru,South Indian,basic,2020-10-17
+R0265,Green Tiffins,Delhi,South Indian,basic,2024-05-12
+R0266,Little Garden,Bengaluru,Biryani,basic,2023-11-05
+R0267,Coastal House,Chennai,Pizza,basic,2024-02-29
+R0268,Hilltop Cafe,Hyderabad,South Indian,basic,2024-08-20
+R0269,Peacock Table,Delhi,North Indian,basic,2020-03-25
+R0270,Grand Table,Pune,North Indian,basic,2023-08-13
+R0271,Lotus Corner,Bengaluru,South Indian,premium,2023-02-01
+R0272,Royal Treats,Chennai,Pizza,basic,2024-06-23
+R0273,Coastal Cafe,Hyderabad,North Indian,plus,2019-05-19
+R0274,Coastal House,Delhi,Biryani,basic,2019-02-01
+R0275,Royal Kitchen,Bengaluru,Biryani,premium,2025-01-05
+R0276,Coastal Corner,Hyderabad,South Indian,plus,2019-02-05
+R0277,Hilltop Table,Bengaluru,Biryani,plus,2023-06-04
+R0278,Silver Point,Bengaluru,South Indian,basic,2019-05-12
+R0279,Banyan Point,Chennai,Biryani,premium,2023-04-17
+R0280,Lotus Express,Chennai,Chinese,basic,2024-10-30
+R0281,Royal House,Bengaluru,Biryani,basic,2023-07-10
+R0282,Banyan Table,Hyderabad,North Indian,plus,2019-06-21
+R0283,Banyan Corner,Mumbai,Biryani,basic,2023-02-02
+R0284,Peacock Tiffins,Chennai,Pizza,plus,2024-09-29
+R0285,Spice House,Hyderabad,Chinese,basic,2025-04-12
+R0286,Hilltop Cafe,Hyderabad,South Indian,plus,2020-03-19
+R0287,Saffron Treats,Delhi,South Indian,plus,2019-12-05
+R0288,Spice Bistro,Mumbai,Chinese,plus,2019-07-01
+R0289,Royal Point,Mumbai,Biryani,basic,2024-01-20
+R0290,Spice Bowl,Mumbai,South Indian,basic,2025-08-10
+R0291,Peacock Corner,Pune,South Indian,basic,2023-05-26
+R0292,Urban Bistro,Mumbai,North Indian,plus,2021-09-11
+R0293,Grand Table,Hyderabad,Chinese,basic,2022-10-22
+R0294,Peacock Bowl,Delhi,North Indian,basic,2025-09-23
+R0295,Banyan Kitchen,Delhi,Cafe,basic,2021-05-08
+R0296,Urban Point,Pune,Chinese,basic,2021-01-12
+R0297,Saffron Tiffins,Chennai,Cafe,plus,2019-09-07
+R0298,Hilltop Point,Chennai,Pizza,premium,2025-10-29
+R0299,Banyan Bistro,Mumbai,Cafe,basic,2025-02-10
+R0300,Peacock House,Hyderabad,North Indian,basic,2022-04-20
+R0301,Little Tiffins,Hyderabad,North Indian,premium,2019-08-10
+R0302,Banyan Tiffins,Pune,Biryani,basic,2023-05-11
+R0303,Urban Bowl,Hyderabad,Pizza,plus,2022-08-26
+R0304,Royal Tiffins,Mumbai,North Indian,basic,2022-08-04
+R0305,Silver Cafe,Hyderabad,Biryani,basic,2021-06-19
+R0306,Peacock Cafe,Chennai,North Indian,basic,2024-08-25
+R0307,Lotus Point,Hyderabad,Pizza,basic,2022-07-02
+R0308,Green Garden,Hyderabad,North Indian,basic,2023-09-30
+R0309,Peacock House,Delhi,Chinese,plus,2024-08-30
+R0310,Little House,Pune,Chinese,premium,2024-03-03
+R0311,Little Express,Bengaluru,Pizza,premium,2022-04-14
+R0312,Spice Corner,Pune,South Indian,basic,2021-11-21
+R0313,Urban Cafe,Mumbai,Chinese,plus,2024-04-09
+R0314,Hilltop House,Mumbai,South Indian,basic,2022-07-05
+R0315,Coastal Tiffins,Chennai,South Indian,basic,2024-07-07
+R0316,Grand Tiffins,Chennai,Cafe,plus,2025-06-07
+R0317,Green House,Delhi,Biryani,plus,2020-11-18
+R0318,Royal Kitchen,Bengaluru,South Indian,basic,2021-10-19
+R0319,Banyan House,Mumbai,South Indian,basic,2020-10-29
+R0320,Grand Bowl,Chennai,Cafe,basic,2024-06-24
+R0321,Green Cafe,Delhi,Chinese,plus,2023-05-23
+R0322,Royal Corner,Pune,Chinese,basic,2022-02-26
+R0323,Urban Kitchen,Mumbai,South Indian,basic,2022-04-28
+R0324,Golden Kitchen,Chennai,South Indian,basic,2022-01-12
+R0325,Peacock Kitchen,Delhi,Chinese,premium,2020-08-04
+R0326,Saffron Point,Mumbai,Chinese,basic,2024-03-04
+R0327,Peacock Bistro,Hyderabad,Cafe,basic,2020-11-21
+R0328,Spice Point,Mumbai,Cafe,basic,2023-02-25
+R0329,Royal Point,Pune,Pizza,premium,2024-03-15
+R0330,Coastal House,Pune,Cafe,plus,2022-12-01
+R0331,Grand Bistro,Mumbai,Chinese,basic,2023-02-12
+R0332,Silver Table,Bengaluru,South Indian,premium,2022-06-18
+R0333,Golden Corner,Hyderabad,Biryani,basic,2019-09-12
+R0334,Royal Cafe,Pune,North Indian,basic,2021-03-16
+R0335,Royal Garden,Hyderabad,Pizza,plus,2024-05-31
+R0336,Coastal Bowl,Mumbai,South Indian,basic,2019-10-26
+R0337,Lotus Express,Hyderabad,South Indian,plus,2019-07-06
+R0338,Peacock Cafe,Hyderabad,Biryani,plus,2021-09-23
+R0339,Banyan Bowl,Hyderabad,South Indian,basic,2021-12-05
+R0340,Banyan Cafe,Mumbai,Pizza,basic,2022-05-22
+R0341,Silver Tiffins,Chennai,Cafe,plus,2019-10-31
+R0342,Golden Kitchen,Chennai,North Indian,basic,2023-07-25
+R0343,Saffron Express,Chennai,Cafe,premium,2025-09-28
+R0344,Urban Table,Hyderabad,Chinese,basic,2022-02-26
+R0345,Little Garden,Mumbai,North Indian,premium,2020-09-07
+R0346,Spice Treats,Chennai,Chinese,plus,2025-06-15
+R0347,Spice Treats,Pune,Chinese,plus,2020-06-18
+R0348,Lotus Kitchen,Mumbai,Cafe,plus,2025-08-31
+R0349,Royal Corner,Hyderabad,Biryani,plus,2019-12-18
+R0350,Little Garden,Bengaluru,South Indian,basic,2022-08-25
+R0351,Banyan Point,Delhi,Biryani,basic,2024-12-08
+R0352,Silver Tiffins,Pune,North Indian,plus,2020-02-17
+R0353,Silver Kitchen,Chennai,Pizza,basic,2019-05-16
+R0354,Lotus Treats,Pune,Cafe,basic,2024-11-17
+R0355,Royal House,Mumbai,North Indian,basic,2019-01-14
+R0356,Urban Bowl,Bengaluru,South Indian,plus,2024-08-16
+R0357,Peacock Tiffins,Chennai,North Indian,plus,2021-03-08
+R0358,Peacock Garden,Delhi,Cafe,basic,2021-09-23
+R0359,Lotus Express,Mumbai,South Indian,basic,2025-05-14
+R0360,Golden Bistro,Bengaluru,Chinese,basic,2023-01-30
+R0361,Green Cafe,Mumbai,Biryani,basic,2021-05-26
+R0362,Silver Point,Delhi,South Indian,basic,2023-02-21
+R0363,Little Bowl,Chennai,Chinese,premium,2019-08-06
+R0364,Banyan Express,Hyderabad,North Indian,basic,2021-01-13
+R0365,Grand Bowl,Hyderabad,Biryani,basic,2024-09-05
+R0366,Grand Cafe,Mumbai,North Indian,plus,2022-10-10
+R0367,Little Bistro,Delhi,South Indian,basic,2022-07-27
+R0368,Peacock Express,Bengaluru,Chinese,plus,2023-12-01
+R0369,Spice Treats,Chennai,South Indian,plus,2021-09-14
+R0370,Little Cafe,Chennai,Pizza,basic,2020-04-12
+R0371,Golden Express,Chennai,North Indian,basic,2019-05-10
+R0372,Golden Garden,Hyderabad,South Indian,basic,2021-09-19
+R0373,Golden Bistro,Bengaluru,North Indian,basic,2022-01-07
+R0374,Urban Express,Pune,North Indian,basic,2022-12-02
+R0375,Saffron Bistro,Mumbai,Cafe,basic,2023-02-13
+R0376,Green Tiffins,Mumbai,Chinese,basic,2021-10-13
+R0377,Peacock Garden,Chennai,Chinese,plus,2019-11-20
+R0378,Royal Corner,Bengaluru,Biryani,basic,2022-03-28
+R0379,Urban Bistro,Chennai,South Indian,plus,2024-09-24
+R0380,Urban Tiffins,Hyderabad,Biryani,premium,2024-10-19
+R0381,Royal Tiffins,Bengaluru,Chinese,basic,2022-02-11
+R0382,Spice Kitchen,Hyderabad,Pizza,basic,2020-11-29
+R0383,Hilltop Kitchen,Delhi,Chinese,premium,2025-09-04
+R0384,Grand Treats,Delhi,North Indian,premium,2021-04-13
+R0385,Hilltop Garden,Hyderabad,Cafe,basic,2024-06-13
+R0386,Green Garden,Mumbai,South Indian,basic,2025-07-20
+R0387,Peacock Point,Hyderabad,Chinese,basic,2025-10-23
+R0388,Little Bistro,Bengaluru,Biryani,plus,2022-06-24
+R0389,Little Treats,Delhi,South Indian,premium,2019-05-17
+R0390,Little Tiffins,Hyderabad,North Indian,basic,2022-05-30
+R0391,Little Cafe,Chennai,North Indian,premium,2023-04-12
+R0392,Silver Tiffins,Bengaluru,Pizza,plus,2022-05-04
+R0393,Hilltop Kitchen,Chennai,Pizza,basic,2022-10-11
+R0394,Saffron Point,Mumbai,South Indian,plus,2020-02-18
+R0395,Urban Table,Pune,Cafe,plus,2024-01-20
+R0396,Lotus Tiffins,Chennai,Cafe,basic,2022-01-15
+R0397,Golden Tiffins,Bengaluru,North Indian,plus,2025-10-13
+R0398,Spice House,Pune,Pizza,plus,2023-04-28
+R0399,Coastal Corner,Hyderabad,North Indian,plus,2023-10-20
+R0400,Saffron Corner,Delhi,Chinese,premium,2024-07-01
+R0401,Lotus Treats,Chennai,Chinese,plus,2024-01-21
+R0402,Little Express,Mumbai,South Indian,plus,2020-12-06
+R0403,Lotus Bistro,Bengaluru,Chinese,basic,2025-10-20
+R0404,Banyan Express,Chennai,South Indian,basic,2020-01-30
+R0405,Banyan Bowl,Mumbai,Biryani,basic,2025-03-04
+R0406,Saffron Treats,Pune,South Indian,plus,2022-09-14
+R0407,Spice Bistro,Delhi,Chinese,basic,2020-07-06
+R0408,Golden Cafe,Bengaluru,North Indian,plus,2023-02-08
+R0409,Grand Cafe,Delhi,Cafe,plus,2022-02-21
+R0410,Grand Kitchen,Chennai,Chinese,plus,2022-09-09
+R0411,Golden Tiffins,Hyderabad,Biryani,plus,2023-02-19
+R0412,Hilltop Express,Delhi,Pizza,premium,2019-07-21
+R0413,Grand Express,Pune,Chinese,basic,2020-11-03
+R0414,Spice Cafe,Pune,Chinese,premium,2022-03-08
+R0415,Spice Corner,Bengaluru,Cafe,plus,2025-08-14
+R0416,Silver Treats,Hyderabad,Cafe,basic,2021-02-13
+R0417,Saffron Kitchen,Chennai,Cafe,plus,2024-06-14
+R0418,Grand Corner,Chennai,North Indian,plus,2024-01-02
+R0419,Hilltop Table,Bengaluru,Cafe,basic,2019-07-20
+R0420,Little Cafe,Hyderabad,Cafe,premium,2022-01-09
+R0421,Lotus Tiffins,Hyderabad,Biryani,basic,2022-03-07
+R0422,Little Bowl,Chennai,South Indian,basic,2021-05-10
+R0423,Banyan Cafe,Bengaluru,North Indian,plus,2020-11-17
+R0424,Little House,Chennai,Biryani,basic,2025-01-03
+R0425,Coastal Express,Mumbai,North Indian,premium,2021-11-08
+R0426,Lotus Cafe,Chennai,Cafe,basic,2021-04-09
+R0427,Royal House,Pune,Chinese,plus,2023-11-25
+R0428,Saffron Cafe,Chennai,North Indian,plus,2020-01-10
+R0429,Green Bowl,Bengaluru,Biryani,basic,2022-02-06
+R0430,Lotus Bistro,Chennai,Chinese,plus,2023-10-13
+R0431,Banyan Cafe,Delhi,Biryani,premium,2023-12-04
+R0432,Banyan Point,Bengaluru,Biryani,plus,2019-08-11
+R0433,Golden Treats,Mumbai,Pizza,plus,2025-02-27
+R0434,Grand Garden,Pune,Biryani,basic,2021-08-06
+R0435,Silver Bistro,Chennai,Pizza,basic,2021-08-25
+R0436,Lotus Tiffins,Pune,Cafe,basic,2020-03-06
+R0437,Royal Point,Delhi,Pizza,basic,2025-07-20
+R0438,Coastal House,Pune,Chinese,premium,2022-07-09
+R0439,Urban Kitchen,Pune,Biryani,plus,2025-01-17
+R0440,Banyan Cafe,Hyderabad,South Indian,premium,2019-03-30
+R0441,Peacock Table,Chennai,Pizza,basic,2023-07-29
+R0442,Royal Corner,Mumbai,Pizza,basic,2024-07-25
+R0443,Golden Bowl,Delhi,Biryani,premium,2024-04-27
+R0444,Peacock Tiffins,Hyderabad,Biryani,basic,2021-02-20
+R0445,Coastal Treats,Chennai,North Indian,basic,2022-12-09
+R0446,Hilltop Express,Mumbai,Biryani,premium,2022-07-06
+R0447,Hilltop Point,Chennai,Pizza,basic,2021-03-06
+R0448,Little House,Mumbai,North Indian,basic,2020-05-23
+R0449,Silver Corner,Pune,North Indian,plus,2023-10-13
+R0450,Banyan Kitchen,Pune,Pizza,premium,2022-03-20
+R0451,Green Garden,Delhi,North Indian,premium,2021-08-21
+R0452,Saffron Kitchen,Hyderabad,Cafe,basic,2024-04-15
+R0453,Coastal Kitchen,Hyderabad,Chinese,plus,2025-10-05
+R0454,Little Bowl,Pune,Biryani,plus,2019-02-21
+R0455,Hilltop Point,Mumbai,Cafe,plus,2023-10-03
+R0456,Royal Bowl,Chennai,Pizza,plus,2019-04-02
+R0457,Coastal Express,Bengaluru,North Indian,premium,2024-12-04
+R0458,Grand Garden,Hyderabad,Cafe,plus,2021-09-28
+R0459,Royal Tiffins,Chennai,Chinese,basic,2025-06-09
+R0460,Silver Cafe,Pune,South Indian,basic,2024-03-16
+R0461,Coastal Corner,Chennai,South Indian,plus,2020-03-03
+R0462,Little Point,Bengaluru,North Indian,premium,2023-09-18
+R0463,Hilltop Bowl,Bengaluru,South Indian,basic,2021-07-17
+R0464,Peacock Cafe,Chennai,Cafe,plus,2019-11-06
+R0465,Little Point,Hyderabad,Cafe,basic,2021-04-04
+R0466,Peacock Express,Bengaluru,North Indian,plus,2022-12-09
+R0467,Peacock Kitchen,Bengaluru,Biryani,premium,2025-06-23
+R0468,Grand House,Chennai,South Indian,plus,2023-01-12
+R0469,Coastal Bistro,Hyderabad,North Indian,basic,2021-05-04
+R0470,Banyan Garden,Pune,North Indian,basic,2022-08-03
+R0471,Urban Garden,Bengaluru,North Indian,plus,2022-04-14
+R0472,Little Treats,Mumbai,Pizza,basic,2022-03-25
+R0473,Golden Bowl,Mumbai,Cafe,basic,2019-03-02
+R0474,Coastal Bowl,Bengaluru,Chinese,plus,2022-05-13
+R0475,Golden Kitchen,Bengaluru,Biryani,premium,2024-09-01
+R0476,Green Tiffins,Delhi,North Indian,premium,2020-12-25
+R0477,Royal Express,Chennai,North Indian,plus,2019-01-14
+R0478,Coastal Table,Chennai,South Indian,basic,2019-09-27
+R0479,Grand Treats,Hyderabad,Chinese,basic,2023-01-23
+R0480,Golden Point,Delhi,South Indian,plus,2021-11-09
+R0481,Urban Corner,Chennai,North Indian,plus,2024-03-20
+R0482,Saffron Point,Hyderabad,Pizza,premium,2024-01-09
+R0483,Urban House,Hyderabad,South Indian,basic,2021-06-19
+R0484,Lotus Kitchen,Chennai,Pizza,basic,2021-12-26
+R0485,Grand Cafe,Hyderabad,Pizza,plus,2020-04-30
+R0486,Silver Bowl,Hyderabad,South Indian,premium,2024-12-08
+R0487,Coastal Table,Delhi,Pizza,plus,2021-04-11
+R0488,Little Treats,Chennai,Chinese,basic,2024-07-06
+R0489,Banyan Bistro,Bengaluru,Chinese,basic,2022-11-16
+R0490,Saffron Express,Hyderabad,South Indian,basic,2021-01-20
+R0491,Urban Garden,Delhi,South Indian,basic,2019-12-09
+R0492,Golden Table,Bengaluru,North Indian,plus,2019-09-28
+R0493,Spice Corner,Pune,South Indian,plus,2019-01-23
+R0494,Saffron Bistro,Hyderabad,North Indian,plus,2024-02-09
+R0495,Golden Point,Delhi,North Indian,plus,2024-03-04
+R0496,Silver Cafe,Chennai,Biryani,basic,2020-03-04
+R0497,Urban House,Mumbai,Chinese,basic,2025-03-10
+R0498,Golden House,Delhi,Biryani,plus,2022-09-12
+R0499,Silver Garden,Hyderabad,South Indian,plus,2022-12-20
+R0500,Banyan Table,Hyderabad,Pizza,basic,2022-09-09
